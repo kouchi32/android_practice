@@ -1,2 +1,2 @@
 rootProject.name = 'android_practice'
-include ':app', 'core', 'first'
+include ':app', 'core', 'first', 'second'

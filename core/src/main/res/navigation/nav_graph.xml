@@ -14,7 +14,7 @@
     </fragment>
     <fragment
         android:id="@+id/SecondFragment"
-        android:name="com.bakatsuyuki.android_practice.SecondFragment">
+        android:name="com.bakatsuyuki.second.SecondFragment">
 
         <action
             android:id="@+id/action_SecondFragment_to_FirstFragment"

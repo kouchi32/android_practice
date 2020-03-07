@@ -1,4 +1,4 @@
-package com.bakatsuyuki.android_practice
+package com.bakatsuyuki.second
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -7,7 +7,7 @@ import android.view.ViewGroup
 import androidx.databinding.DataBindingUtil
 import androidx.fragment.app.Fragment
 import androidx.navigation.fragment.findNavController
-import com.bakatsuyuki.android_practice.databinding.FragmentSecondBinding
+import com.bakatsuyuki.second.databinding.FragmentSecondBinding
 
 /**
  * A simple [Fragment] subclass as the second destination in the navigation.
