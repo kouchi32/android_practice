@@ -1,4 +1,4 @@
-package com.bakatsuyuki.android_practice
+package com.bakatsuyuki.first
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -7,7 +7,7 @@ import android.view.ViewGroup
 import androidx.databinding.DataBindingUtil
 import androidx.fragment.app.Fragment
 import androidx.navigation.fragment.findNavController
-import com.bakatsuyuki.android_practice.databinding.FragmentFirstBinding
+import com.bakatsuyuki.first.databinding.FragmentFirstBinding
 
 /**
  * A simple [Fragment] subclass as the default destination in the navigation.
