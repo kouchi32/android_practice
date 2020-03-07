@@ -3,7 +3,7 @@ package com.bakatsuyuki.repository
 import android.content.Context
 import android.content.SharedPreferences
 
-class CountSharedPreferencesHolder {
+object CountSharedPreferencesHolder {
     private lateinit var sharedPreferences: SharedPreferences
     fun get() = sharedPreferences
     fun setUp(context: Context) {
